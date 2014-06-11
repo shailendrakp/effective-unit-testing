@@ -16,6 +16,7 @@
 		<module>chapter-03</module>
 		<module>chapter-04</module>
 		<module>chapter-05</module>
+		<module>chapter-06</module>
 		<module>chapter-08</module>
 		<module>chapter-09</module>
 	</modules>
@@ -24,7 +25,7 @@
 			<extension>
 				<groupId>com.github.lkoskela</groupId>
 				<artifactId>maven-build-utils</artifactId>
-				<version>1.2</version>
+				<version>1.4</version>
 			</extension>
 		</extensions>
 		<pluginManagement>
